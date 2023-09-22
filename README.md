@@ -5,4 +5,4 @@
 
 ### License
 Copyright (c); 2023 DEP-11. All rights reserved<br>
-This project is licensed underthe [MIT](License.txt)
+This project is licensed under the [MIT](License.txt)
