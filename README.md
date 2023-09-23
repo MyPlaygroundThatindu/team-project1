@@ -1,7 +1,7 @@
 ### Team Project
 
 ### Version
-0.1.0
+0.2.0
 
 ### License
 Copyright (c); 2023 DEP-11. All rights reserved<br>
